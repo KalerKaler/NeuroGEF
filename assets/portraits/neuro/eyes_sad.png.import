@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bowa4b0clq30d"
-path="res://.godot/imported/eyes_sad.png-5c3a660e7a5afc16286600c1bc06bd84.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/portraits/neuro/eyes_sad.png"
-dest_files=["res://.godot/imported/eyes_sad.png-5c3a660e7a5afc16286600c1bc06bd84.ctex"]
 
 [params]
 

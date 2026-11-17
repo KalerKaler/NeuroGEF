@@ -3,12 +3,11 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cwjnkc6ki0wd1"
-path="res://.godot/imported/house.ogg-b04ad3e04212b5d024aa793618e5c4cc.oggvorbisstr"
+valid=false
 
 [deps]
 
 source_file="res://assets/bgm/house.ogg"
-dest_files=["res://.godot/imported/house.ogg-b04ad3e04212b5d024aa793618e5c4cc.oggvorbisstr"]
 
 [params]
 

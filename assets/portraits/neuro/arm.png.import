@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://duxvb5d0av2ww"
-path="res://.godot/imported/arm.png-04193bca2999dfd63fa60dc7a184e65e.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/portraits/neuro/arm.png"
-dest_files=["res://.godot/imported/arm.png-04193bca2999dfd63fa60dc7a184e65e.ctex"]
 
 [params]
 

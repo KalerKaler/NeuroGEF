@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgngrxw1j0e77"
-path="res://.godot/imported/eyebrows_neutral.png-c789a4a670f734c14448c9ccca56b41b.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/portraits/neuro/eyebrows_neutral.png"
-dest_files=["res://.godot/imported/eyebrows_neutral.png-c789a4a670f734c14448c9ccca56b41b.ctex"]
 
 [params]
 

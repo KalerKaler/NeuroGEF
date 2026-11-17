@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://clup7e51uk0vq"
-path="res://.godot/imported/mouth_neutral.png-cb725e381179a09153840313dfd844f8.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/portraits/neuro/mouth_neutral.png"
-dest_files=["res://.godot/imported/mouth_neutral.png-cb725e381179a09153840313dfd844f8.ctex"]
 
 [params]
 

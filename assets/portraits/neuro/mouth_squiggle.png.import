@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dvibbcnldruxo"
-path="res://.godot/imported/mouth_squiggle.png-4a5d186833379f739ab67275d40f9750.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/portraits/neuro/mouth_squiggle.png"
-dest_files=["res://.godot/imported/mouth_squiggle.png-4a5d186833379f739ab67275d40f9750.ctex"]
 
 [params]
 

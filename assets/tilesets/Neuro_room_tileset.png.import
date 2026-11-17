@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0sm4sr0tmgko"
-path="res://.godot/imported/Neuro_room_tileset.png-dd782a1fed079ee4799fbbd50c5d9100.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/tilesets/Neuro_room_tileset.png"
-dest_files=["res://.godot/imported/Neuro_room_tileset.png-dd782a1fed079ee4799fbbd50c5d9100.ctex"]
 
 [params]
 

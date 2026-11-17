@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://rsr6s26cwyym"
-path="res://.godot/imported/neuro.png-3470e00b03a7552e97bd168aad50a7ea.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/combat_sprites/neuro.png"
-dest_files=["res://.godot/imported/neuro.png-3470e00b03a7552e97bd168aad50a7ea.ctex"]
 
 [params]
 

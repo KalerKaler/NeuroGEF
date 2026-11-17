@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3eogicfj63ln"
-path="res://.godot/imported/eyes_wink.png-9691d670813e2611a2aeb875ee83ec34.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/portraits/neuro/eyes_wink.png"
-dest_files=["res://.godot/imported/eyes_wink.png-9691d670813e2611a2aeb875ee83ec34.ctex"]
 
 [params]
 

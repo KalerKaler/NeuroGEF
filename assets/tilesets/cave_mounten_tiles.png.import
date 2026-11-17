@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3yras522fbm3"
-path="res://.godot/imported/cave_mounten_tiles.png-23a65a0b02f5cb5463b88cf0c6c4b35b.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/tilesets/cave_mounten_tiles.png"
-dest_files=["res://.godot/imported/cave_mounten_tiles.png-23a65a0b02f5cb5463b88cf0c6c4b35b.ctex"]
 
 [params]
 

@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://n5l0putq4e87"
-path="res://.godot/imported/evil.png-8239d209b3ab1e9140325d512ba208d9.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/sprites/evil.png"
-dest_files=["res://.godot/imported/evil.png-8239d209b3ab1e9140325d512ba208d9.ctex"]
 
 [params]
 

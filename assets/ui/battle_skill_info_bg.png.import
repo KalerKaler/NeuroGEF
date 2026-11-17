@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cf8v6cfhutgv2"
-path="res://.godot/imported/battle_skill_info_bg.png-143bf895b579a57413f23afef16bd416.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/ui/battle_skill_info_bg.png"
-dest_files=["res://.godot/imported/battle_skill_info_bg.png-143bf895b579a57413f23afef16bd416.ctex"]
 
 [params]
 

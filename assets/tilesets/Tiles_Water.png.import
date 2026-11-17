@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dq0xk5mkmyco6"
-path="res://.godot/imported/Tiles_Water.png-ddc085af5e99738acb9ef74fc00b6761.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/tilesets/Tiles_Water.png"
-dest_files=["res://.godot/imported/Tiles_Water.png-ddc085af5e99738acb9ef74fc00b6761.ctex"]
 
 [params]
 

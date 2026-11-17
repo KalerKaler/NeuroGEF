@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbyypoidbl1cn"
-path="res://.godot/imported/nere.png-9844d09163c335dd1d7a5cf43f597a18.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/sprites/nere.png"
-dest_files=["res://.godot/imported/nere.png-9844d09163c335dd1d7a5cf43f597a18.ctex"]
 
 [params]
 

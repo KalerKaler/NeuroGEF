@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7v41rhalptoh"
-path="res://.godot/imported/eyebrows_frown.png-54d45981d2795248820d824443553722.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/portraits/neuro/eyebrows_frown.png"
-dest_files=["res://.godot/imported/eyebrows_frown.png-54d45981d2795248820d824443553722.ctex"]
 
 [params]
 

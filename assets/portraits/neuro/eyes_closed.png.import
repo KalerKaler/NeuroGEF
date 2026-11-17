@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d371bgjgx5c2i"
-path="res://.godot/imported/eyes_closed.png-04b9d7f468deb3744908258150c002f4.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/portraits/neuro/eyes_closed.png"
-dest_files=["res://.godot/imported/eyes_closed.png-04b9d7f468deb3744908258150c002f4.ctex"]
 
 [params]
 

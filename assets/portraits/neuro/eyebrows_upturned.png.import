@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmwhc356u3vx3"
-path="res://.godot/imported/eyebrows_upturned.png-f5d419c27c0ebe4f5dbae2c51711158b.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/portraits/neuro/eyebrows_upturned.png"
-dest_files=["res://.godot/imported/eyebrows_upturned.png-f5d419c27c0ebe4f5dbae2c51711158b.ctex"]
 
 [params]
 

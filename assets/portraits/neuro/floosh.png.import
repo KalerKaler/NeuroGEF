@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8pxg5oqouvj4"
-path="res://.godot/imported/floosh.png-85b0ecc7eac7215a8adb7730c5351764.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/portraits/neuro/floosh.png"
-dest_files=["res://.godot/imported/floosh.png-85b0ecc7eac7215a8adb7730c5351764.ctex"]
 
 [params]
 

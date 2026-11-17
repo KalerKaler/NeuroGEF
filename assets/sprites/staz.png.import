@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0eapv1vc01cr"
-path="res://.godot/imported/staz.png-b26fb3ce093cda37c41be7522d5c866b.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/sprites/staz.png"
-dest_files=["res://.godot/imported/staz.png-b26fb3ce093cda37c41be7522d5c866b.ctex"]
 
 [params]
 

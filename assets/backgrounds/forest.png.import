@@ -3,15 +3,11 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddpbtvmnywmuk"
-path="res://.godot/imported/forest.png-71394fb1f1d3aad0a7d6762fb77f7fa0.ctex"
-metadata={
-"vram_texture": false
-}
+valid=false
 
 [deps]
 
 source_file="res://assets/backgrounds/forest.png"
-dest_files=["res://.godot/imported/forest.png-71394fb1f1d3aad0a7d6762fb77f7fa0.ctex"]
 
 [params]
 
